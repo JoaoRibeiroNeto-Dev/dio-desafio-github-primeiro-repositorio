@@ -1,6 +1,6 @@
 Links para Estudos de Programação: 
 
-Python: 
+Python: https://www.youtube.com/watch?v=Q8eajxcS6dQ
 Git/GitHub:
 Java:
 Javascript:
